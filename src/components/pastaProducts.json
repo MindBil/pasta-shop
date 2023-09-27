@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti",
+    "price": 5.99,
+    "imgUrl": "https://www.marionskitchen.com/wp-content/uploads/2022/12/Filipino-Spaghetti-02.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fusilli",
+    "price": 4.49,
+    "imgUrl": "https://www.realsimple.com/thmb/4oQUUJF2us6i8hzqYU5rOXNuZlY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fudilli-with-minty-pea-pesto-recipe-0421din-7c8e7852f98c4acd99f98b3e531a4259.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Penne",
+    "price": 3.99,
+    "imgUrl": "https://thishomekitchen.com/wp-content/uploads/2022/09/Penne-Pomodoro-FI.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Linguine",
+    "price": 6.29,
+    "imgUrl": "https://simplyhomecooked.com/wp-content/uploads/2021/08/shrimp-linguine-recipe-17.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Farfalle",
+    "price": 4.99,
+    "imgUrl": "https://twomarketgirls.com/wp-content/uploads/2023/01/Rose-Pasta-3628-scaled-e1674995771438.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Orzo",
+    "price": 3.79,
+    "imgUrl": "https://www.cucinabyelena.com/wp-content/uploads/2023/04/0Z4A1117-2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rotini",
+    "price": 4.29,
+    "imgUrl": "https://amindfullmom.com/wp-content/uploads/2016/10/5-Ingredient-Rotini.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rigatoni",
+    "price": 5.49,
+    "imgUrl": "https://sugarspunrun.com/wp-content/uploads/2021/11/EASY-RIGATONI-RECIPE-1-of-1.jpg"
+  }
+]
